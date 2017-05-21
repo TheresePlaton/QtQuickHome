@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>PageBackground.qml</file>
+        <file>HeaderLabel.qml</file>
+        <file>Lights.qml</file>
+        <file>LightsForm.ui.qml</file>
+        <file>Heating.qml</file>
+        <file>HeatingForm.ui.qml</file>
+        <file>Security.qml</file>
+        <file>SecurityForm.ui.qml</file>
+        <file>Sidebar.qml</file>
+        <file>SidebarForm.ui.qml</file>
+    </qresource>
+</RCC>

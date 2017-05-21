@@ -1,6 +1,12 @@
-import QtQuick 2.4
+import QtQuick 2.7
+import QtQuick.Controls 2.1
+import QtQuick.Controls.Material 2.1
+import QtPositioning 5.8
+import QtQuick.Layouts 1.3
 
-Item {
-    width: 400
-    height: 400
+PageBackground {
+    width: 300
+    height: 800
+    clip: true
+    title: "Smart Home"
 }
