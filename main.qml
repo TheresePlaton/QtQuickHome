@@ -13,7 +13,7 @@ ApplicationWindow {
     Material.theme: Material.Dark
     Material.accent: Material.DeepOrange
 
-    StackLayout {
+    SwipeView {
         id: swipeView
         x: 880
         width: 400
