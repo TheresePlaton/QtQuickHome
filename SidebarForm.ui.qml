@@ -177,6 +177,7 @@ PageBackground {
         y: 680
         width: 198
         height: 48
+        model:["Night", "Day", "Vacation","Party","Test"]
     }
 
     Button {

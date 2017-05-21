@@ -8,7 +8,7 @@ import QtQuick.Layouts 1.3
 
 SidebarForm {
 
-    comboBox:["Night", "Day", "Vacation","Party","Test"]
+
     button.onClicked:{
         dialog.open();
 }

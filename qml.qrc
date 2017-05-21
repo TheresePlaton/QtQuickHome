@@ -12,5 +12,6 @@
         <file>SecurityForm.ui.qml</file>
         <file>Sidebar.qml</file>
         <file>SidebarForm.ui.qml</file>
+        <file>ComboBox.ui.qml</file>
     </qresource>
 </RCC>
